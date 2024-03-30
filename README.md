@@ -8,7 +8,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **joselyngonzalezma@gmail.com**
+- Puedes contactarme a través de mi correo electrónico: ** @ **
 - Puedes contactarme a través de: **[Linkedin](www.linkedin.com/in/jessabel)**
 - Puedes visitar mi página: **En construcción**
 
@@ -20,7 +20,6 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📎 Herramientas
 
