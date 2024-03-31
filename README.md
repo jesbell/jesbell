@@ -9,7 +9,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: ** @ **
-- Puedes contactarme a través de: **[Linkedin](www.linkedin.com/in/jessabel)**
+- Puedes contactarme a través de: **[Linkedin](www.linkedin.com/in/j)**
 - Puedes visitar mi página: **En construcción**
 
 ### 🎨 Frontend
