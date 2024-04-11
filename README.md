@@ -1,11 +1,17 @@
 # Hola 👋, soy Joselyn
 
-Desarrolladora y entusiasta por los datos, actualmente aprendiendo y reforzando habilidades en el curdo full stack javascript. 
+Desarrolladora y entusiasta por los datos, actualmente aprendiendo y reforzando habilidades en el curso full stack javascript. 
+
+.
 
 <!--- ## 📫 Contacto
 
 - Puedes contactarme a través de: **[Linkedin](www.linkedin.com/in/j)**
 - Puedes visitar mi página: **En construcción** -->
+
+
+
+
 
 ### 🎨 Frontend
 
