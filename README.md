@@ -1,16 +1,11 @@
 # Hola 👋, soy Joselyn
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Desarrolladora y entusiasta por los datos, actualmente aprendiendo y reforzando habilidades en el curdo full stack javascript. 
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+<!--- ## 📫 Contacto
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
-
-## 📫 Contacto
-
-- Puedes contactarme a través de mi correo electrónico: ** @ **
 - Puedes contactarme a través de: **[Linkedin](www.linkedin.com/in/j)**
-- Puedes visitar mi página: **En construcción**
+- Puedes visitar mi página: **En construcción** -->
 
 ### 🎨 Frontend
 
