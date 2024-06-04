@@ -1,7 +1,6 @@
-# Hola 👋, soy Joselyn
+# Hola 👋
 
-Desarrolladora y entusiasta por los datos, actualmente aprendiendo y reforzando habilidades en el curso full stack javascript. 
-
+Soy Joselyn González, desarrolladora web de Chile. Con una formación en ingeniería y habiendo completado bootcamps en desarrollo full stack con JavaScript y análisis de datos, estoy apasionada por crear soluciones innovadoras y eficientes. Mi enfoque proactivo y mi constante deseo de aprendizaje me permiten adaptarme rápidamente a nuevos desafíos y tecnologías. Disfruto trabajar en equipo y colaborar con otros profesionales para alcanzar objetivos comunes. Si buscas a alguien que combine habilidades técnicas sólidas con una capacidad innata para aprender y adaptarse, no dudes en contactarme. Estoy disponible en joselyngonzalezma@gmail.com.
 .
 
 <!--- ## 📫 Contacto
